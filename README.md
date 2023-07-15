@@ -56,7 +56,7 @@ This software also does not need any special actions when downloading. This will
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Before downloading this software, create a seperate folder on any drive. For example:"C:\PHP". Once your folder is created, you may proceed to download the PHP software. This software allows you to script languages for web development.
 </p>
 <br />
 
