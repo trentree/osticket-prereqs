@@ -41,7 +41,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-![Screenshot 2023-07-12 143938](https://github.com/trentree/osticket-prereqs/assets/129711900/2c5835a9-950c-451e-8150-673d0d5ac761)
+
+![Screenshot 2023-07-12 143938](https://github.com/trentree/osticket-prereqs/assets/129711900/aec49d96-aa0d-4bb9-931f-db574f14811e)
+
 
 </p>
 <p>
