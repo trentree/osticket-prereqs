@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Before installing your prerequisites, you must enable a couple of features so you're able to run the osTicket software with no issues by pressing your "WIN" key and typing "turn windows feature on or off". When that is open follow the pathway i will type out. Internet Information Service -> Web Management Tools -> Check "IIS Management Console" Then World Wide Web Services -> Application Development Features -> Check "CGI" and "Common HTTP Features" that is 5 folders under "CGI".
 - PHP Manager for IIS
 - IIS URL Rewrite Module
-- PHP 
+- PHP (latest verison available for you)
 - MySQL
 - Microsoft Visual C++ (x86)
 - HeidiSQL
@@ -44,6 +44,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![Screenshot 2023-07-12 143938](https://github.com/trentree/osticket-prereqs/assets/129711900/aec49d96-aa0d-4bb9-931f-db574f14811e)
 
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+
+![Screenshot 2023-07-15 140010](https://github.com/trentree/osticket-prereqs/assets/129711900/b60ecb9c-3e7b-451e-b602-28bd3db8ec6b)
 
 </p>
 <p>
@@ -52,7 +61,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![Screenshot 2023-07-12 143910](https://github.com/trentree/osticket-prereqs/assets/129711900/8215c423-4af7-4915-9434-3639d0190882)
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -60,7 +71,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+![Screenshot 2023-07-12 143922](https://github.com/trentree/osticket-prereqs/assets/129711900/fc7a9534-2235-4761-aa64-d5966c26cf6a)
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -68,15 +81,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2023-07-15 125841](https://github.com/trentree/osticket-prereqs/assets/129711900/5ff0719e-c57f-4a31-99a9-2347ba8ff69e)
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
