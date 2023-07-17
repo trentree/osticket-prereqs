@@ -19,10 +19,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
  
-- Before installing your prerequisites, you must enable a couple of features so you're able to run the osTicket software with no issues by pressing your "WIN" key and typing "turn windows feature on or off". When that is open follow the pathway i will type out. Internet Information Service -> Web Management Tools -> Check "IIS Management Console" Then World Wide Web Services -> Application Development Features -> Check "CGI" and "Common HTTP Features" that is 5 folders under "CGI".
+- Before installing your prerequisites, you must enable a couple of features so you're able to run the osTicket software with no issues by pressing your "WIN" key and typing "turn windows feature on or off". When that is open follow the pathway I will type out. Internet Information Service -> Web Management Tools -> Check "IIS Management Console" Then World Wide Web Services -> Application Development Features -> Check "CGI" and "Common HTTP Features" that are 5 folders under "CGI".
 - PHP Manager for IIS
 - IIS URL Rewrite Module
-- PHP (latest verison available for you)
+- PHP (the latest version available for you)
 - MySQL
 - Microsoft Visual C++ (x86)
 - HeidiSQL
@@ -56,7 +56,7 @@ This software also does not need any special actions when downloading. This will
 
 </p>
 <p>
-Before downloading this software, create a seperate folder on any drive. For example:"C:\PHP". Once your folder is created, you may proceed to download the PHP software. This software allows you to script languages for web development.
+Before downloading this software, create a separate folder on any drive. For example:"C:\PHP". Once your folder is created, you may proceed to download the PHP software. This software allows you to script languages for web development.
 </p>
 <br />
 
@@ -66,7 +66,7 @@ Before downloading this software, create a seperate folder on any drive. For exa
 
 </p>
 <p>
-Also, no special actions are needed to be taken while downloading this. Usually this software comes with the windows operating sdystem but this was downloaded for safety measures. PHP requires Microsoft C++ to work properly.
+Also, no special actions are needed to be taken while downloading this. Usually, this software comes with the Windows operating system but this was downloaded for safety measures. PHP requires Microsoft C++ to work properly.
 </p>
 <br />
 
@@ -86,6 +86,6 @@ When downloading the MySQL software, you will want to run "Typical Setup" and ju
 
 </p>
 <p>
-
+Finally, we enter a password to bypass 
 </p>
 <br />
