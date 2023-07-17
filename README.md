@@ -86,6 +86,6 @@ When downloading the MySQL software, you will want to run "Typical Setup" and ju
 
 </p>
 <p>
-Finally, we enter a password to bypass 
+Finally, we enter a username and password to be able to login to osTicket.
 </p>
 <br />
